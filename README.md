@@ -4,11 +4,11 @@ ASUS FX63VD i5 7300HQ+HD630 Hackintosh<br>
 主板型号：FX503VD           Bios版本：310<br>
 硬件概况：CPU：i5-7300HQ    核显：HD630  2048M  核显驱动正常<br>
 独显：GTX1050 4G  内存：32G DDR4 2400  16G+16G 海力士<br>
-有线网卡：RTL8111  无线网卡：Intel(R) Dual Band Wireless-AC 8265<br>
+有线网卡：RTL8111  无线网卡：Intel(R) Dual Band Wireless-AX210<br>
 硬盘：海康威视 HS-SSD-C2000Pro 1024G (固态硬盘)   HDD 2T<br>
 
-2025-04-27更新功能实现概况：<br>
-系统版本 macOS Sequoia15.4.1 <br>
+2026-09-28更新功能实现概况：<br>
+系统版本 macOS Sequoia15.8 <br>
 无线正常驱动，蓝牙显正常驱动连接手机，屏幕亮度调节正常，触摸板已经修复正常使用，系统音量调节正常<br>
 键盘使用正常，鼠标使用正常，电池识别正常，USB定制各个接口均能正常识别U盘,睡眠唤醒正常。<br>
 <br>
